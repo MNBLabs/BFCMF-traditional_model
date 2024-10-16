@@ -36,3 +36,11 @@ The **Frequency Traditional Model (FTM)** is a Python program designed to calcul
 5. **Visualization**:
    - Displays the beat table in the console with color-coded formatting using the Colorama library.
    - Coinciding beats are highlighted in red to easily identify simultaneous occurrences.
+
+## License
+
+This project does not have a license and is proprietary software. Unauthorized copying, distribution, modification, or use of this software is strictly prohibited.
+
+## Disclaimer
+
+This model represents original work in calculating beat frequencies for multiple frequencies. Any resemblance to existing models is coincidental. All rights reserved by the author.
